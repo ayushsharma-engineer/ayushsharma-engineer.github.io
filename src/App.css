@@ -1,0 +1,11 @@
+
+.App {
+  min-height: 100vh;
+  background: #05080D;
+  color: #EAF6FF;
+  isolation: isolate;
+}
+
+html {
+  background: #05080D;
+}
